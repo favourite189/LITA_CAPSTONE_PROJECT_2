@@ -9,7 +9,7 @@ The  aim of the project is to analyzes customer data for a subscription service 
 Data gotten from a subscription service to analyzes the customers data
 
 ## DATA COLLECTED
-They are 7 columns in the data
+They are 8 columns in the data
 - **ORDERID**
 They are unique identification of orders done in the store per orders
 -  **CUSTOMERSID**
@@ -27,10 +27,6 @@ when the subscription end
   the customers who did not canceled their subscription returns false
 - **REVENUE**
   The total sales
-
-
-
-
 
 ## DATA TOOLS
 - Microsoft excel 
@@ -59,6 +55,19 @@ subscription types
 - retrieve the total number of customers from each region
   
 - find the most popular subscription type by the number of customers
+
+ - find customers who canceled their subscription within 6 months
+
+- calculate the average subscription duration for all customers
+  
+- find customers with subscriptions longer than 12 months
+ 
+- calculate total revenue by subscription type
+  
+- find the top 3 regions by subscription cancellations
+  
+- find the total number of active and canceled subscriptions.
+
 
   ## SQL CODES
   #### FIRSTLY
