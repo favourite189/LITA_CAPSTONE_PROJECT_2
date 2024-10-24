@@ -56,8 +56,8 @@ subscription types
   ``To retrieve my data loaded into my sql studio
 - . inspecting my data incase of any miss numbers
   #### SECONDLY
- - **HERE IS MY SQL QUEREIS
- - [query.sql](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/query.sql)
+ - **HERE IS MY SQL QUEREIS**
+ [query.sql](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/query.sql)
 
   ## PROJECT INSIGHT USING POWERBI
  
