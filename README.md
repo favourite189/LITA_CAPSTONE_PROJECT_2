@@ -50,6 +50,8 @@ subscription types
   USING PIVOT TABLE TO SUMMARIZE
 - _TOTAL NUMBERS OF CUSTOMER ON SUBSCRIPTION TYPE_
 - ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-10-24%20073231.png)
+- _TOTAL REVENUE B SUBSCRIPTION TYPE_
+- - ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-10-24%20074200.png)
   
 ## PROJECT INSIGHT USING SQL
 - retrieve the total number of customers from each region
