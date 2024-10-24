@@ -22,9 +22,9 @@ when the subscription end
   The name of each of the customers
 - **REGION**
 
-- **CANCALED**
-   The customers who cancsled their subscription before it end returns true and
-  the customers who did not cancles their subscription returns false
+- **CANCELED**
+   The customers who canceled their subscription before it end returns true and
+  the customers who did not canceled their subscription returns false
 - **REVENUE**
   The total sales
 
@@ -52,6 +52,8 @@ subscription types
 - ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-10-24%20073231.png)
 - _TOTAL REVENUE B SUBSCRIPTION TYPE_
 - - ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-10-24%20074200.png)
+  - _TOTAL NUMBER OF PEOPLE THAT CANCELED THEIR SUBSCRIPTION_
+  - ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-10-24%20073612.png)
   
 ## PROJECT INSIGHT USING SQL
 - retrieve the total number of customers from each region
