@@ -47,6 +47,19 @@ subscription types
 - retrieve the total number of customers from each region
   
 - find the most popular subscription type by the number of customers
+
+  ## SQL CODES
+  #### FIRSTLY
+ -  import my data into my sql server and check my data types
+- ``
+  select * from customers data
+  ``To retrieve my data loaded into my sql studio
+- . inspecting my data incase of any miss numbers
+  #### SECONDLY
+ - **HERE IS MY SQL QUEREIS
+ - [QUERY.SQL]()
+
+  ## PROJECT INSIGHT USING POWERBI
  
 - find customers who canceled their subscription within 6 months
 
