@@ -48,6 +48,8 @@ subscription types
   - 2clean my data by checking how many data on my table,remove duplicate and change my data type
  -  **SECONDSTEP**
   USING PIVOT TABLE TO SUMMARIZE
+- _TOTAL NUMBERS OF CUSTOMER ON SUBSCRIPTION TYPE_
+- ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-10-24%20073231.png)
   
 ## PROJECT INSIGHT USING SQL
 - retrieve the total number of customers from each region
