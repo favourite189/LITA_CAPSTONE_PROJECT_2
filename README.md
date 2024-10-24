@@ -10,14 +10,23 @@ Data gotten from a subscription service to analyzes the customers data
 
 ## DATA COLLECTED
 They are 7 columns in the data
-- .**ORDERID**
+- **ORDERID**
 They are unique identification of orders done in the store per orders
-- . **CUSTOMERSID**
+-  **CUSTOMERSID**
 They are unique identification number of each customers who purchase from the store
-- .**SUBSCRIPTION START**
-The goods customer brought from the store
-- .**SUBSCRIPTION END**
+- **SUBSCRIPTION START**
+when the subscription started 
+- **SUBSCRIPTION END**
+when the subscription end
+- **CUSTOMERS NAME**
+  The name of each of the customers
+- **REGION**
 
+- **CANCLESD**
+   The customers who cancsled their subscription before it end returns true and
+  the customers who did not cancles their subscription returns false
+- **REVENUE**
+  The total sales
 
 
 
