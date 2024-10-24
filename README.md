@@ -22,7 +22,7 @@ when the subscription end
   The name of each of the customers
 - **REGION**
 
-- **CANCLESD**
+- **CANCALED**
    The customers who cancsled their subscription before it end returns true and
   the customers who did not cancles their subscription returns false
 - **REVENUE**
@@ -37,11 +37,17 @@ when the subscription end
 (Pivot table)
 - SQL
 -  Power Bi 
-## PROJECT INSIGHT USING EXCEL
+## PROJECT INSIGHT USING MICROSOFTEXCEL
 - Analyze customer data using pivot tables to find subscription patterns
   
 - Calculate the average subscription duration and identify the most popular
 subscription types
+## ANALYZE MY DATA USING MICROSOFTEXCEL
+**FIRSTSTEP**
+  - 1Load my data into my excel workbook
+  - 2clean my data by checking how many data on my table,remove duplicate and change my data type
+ -  **SECONDSTEP**
+  USING PIVOT TABLE TO SUMMARIZE
   
 ## PROJECT INSIGHT USING SQL
 - retrieve the total number of customers from each region
