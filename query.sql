@@ -7,6 +7,7 @@ select region,
 count(CustomerID)as totalnumbers_of_customers
 from [dbo].[customers data]
 group by region
+  
   ``
 
 
@@ -26,7 +27,7 @@ order by no_of_customers desc
 select CustomerID,CustomerName,SubscriptionStart
 from[dbo].[customers data]
 where Canceled =0 and
- month(SubscriptionStart)>=6
+ DATEDIFF(DAY,SubscriptionStart,subscriptionend)>=6
   ``
  
 
