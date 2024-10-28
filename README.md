@@ -50,13 +50,21 @@ subscription types
 - - ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-10-24%20074200.png)
   - _TOTAL NUMBER OF PEOPLE THAT CANCELED THEIR SUBSCRIPTION_
   - ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-10-24%20073612.png)
+ 
+    **THIRDSTEP**
+    - created colum for durations diff subscription end-subscription start(datediff)
+     ``
+    =AVERAGE(Table1[[#All],[DURATION DIFF]])
+``
+
+- ``
+=COUNTIF(Table1[[#All],[SubscriptionType]],"BASIC")
+=COUNTIF(Table1[[#All],[SubscriptionType]],"PREMIUM")
+=COUNTIF(Table1[[#All],[SubscriptionType]],"STANDARD")
+``
   
 ## PROJECT INSIGHT USING SQL
-- retrieve the total number of customers from each region
-  
-- find the most popular subscription type by the number of customers
-
- - find customers who canceled their subscription within 6 months
+- find customers who canceled their subscription within 6 months
 
 - calculate the average subscription duration for all customers
   
@@ -67,6 +75,7 @@ subscription types
 - find the top 3 regions by subscription cancellations
   
 - find the total number of active and canceled subscriptions.
+
 
 
   ## SQL CODES
@@ -82,14 +91,4 @@ subscription types
 
   ## PROJECT INSIGHT USING POWERBI
  
-- find customers who canceled their subscription within 6 months
 
-- calculate the average subscription duration for all customers
-  
-- find customers with subscriptions longer than 12 months
- 
-- calculate total revenue by subscription type
-  
-- find the top 3 regions by subscription cancellations
-  
-- find the total number of active and canceled subscriptions.
