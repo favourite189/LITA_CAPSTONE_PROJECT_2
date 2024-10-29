@@ -89,6 +89,7 @@ subscription types
  - **HERE IS MY SQL QUEREIS**
  [query.sql](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/query.sql)
 
-  ## PROJECT INSIGHT USING POWERBI
+  ##  VISUALIZATION REPORT USING POWER BI
+  ![IMAGE ALT](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-10-29%20105400.png)
  
 
