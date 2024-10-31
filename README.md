@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f1bc9d74-745f-4a47-ae2c-c3f59f651bbf)# LITA_CAPSTONE_PROJECT_2
+
 ANALYZE CUSTOMERS DATA USING MICROSOFT EXCCEL,SQL AND POWERBI TO PROVIDE VALUABLE INSIGHT INTO THE DATA
 #  PROJECT TITLE : CUSTOMERS DATA
 
@@ -21,7 +21,7 @@ when the subscription end
 - **CUSTOMERS NAME**
   The name of each of the customers
 - **REGION**
-
+  The location where the transaction took place
 - **CANCELED**
    The customers who canceled their subscription before it end returns true and
   the customers who did not canceled their subscription returns false
@@ -46,7 +46,7 @@ subscription types
   USING PIVOT TABLE TO SUMMARIZE
 - _TOTAL NUMBERS OF CUSTOMER ON SUBSCRIPTION TYPE_
 - ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-10-24%20073231.png)
-- _TOTAL REVENUE B SUBSCRIPTION TYPE_
+- _TOTAL REVENUE BY SUBSCRIPTION TYPE_
 - - ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-10-24%20074200.png)
   - _TOTAL NUMBER OF PEOPLE THAT CANCELED THEIR SUBSCRIPTION_
   - ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-10-24%20073612.png)
