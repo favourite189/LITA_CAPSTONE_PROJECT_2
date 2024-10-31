@@ -50,7 +50,8 @@ subscription types
 - - ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-10-24%20074200.png)
   - _TOTAL NUMBER OF PEOPLE THAT CANCELED THEIR SUBSCRIPTION_
   - ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-10-24%20073612.png)
- 
+  - - _SUM OF REVENUE BY SUBCRIPTION MONTH
+ - ![IMAGE ALT](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-10-31%20061043.png)
     **THIRDSTEP**
     - created colum for durations diff subscription end-subscription start(datediff)
      ``
