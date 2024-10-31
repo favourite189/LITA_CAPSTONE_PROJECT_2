@@ -62,6 +62,7 @@ subscription types
 =COUNTIF(Table1[[#All],[SubscriptionType]],"BASIC")
 =COUNTIF(Table1[[#All],[SubscriptionType]],"PREMIUM")
 =COUNTIF(Table1[[#All],[SubscriptionType]],"STANDARD")
+MOST POPULAR ==COUNTIF(Table1[[#All],[SubscriptionType]],"BASIC")  
 ``
   
 ## PROJECT INSIGHT USING SQL
