@@ -1,4 +1,4 @@
-# LITA_CAPSTONE_PROJECT_2
+![image](https://github.com/user-attachments/assets/f1bc9d74-745f-4a47-ae2c-c3f59f651bbf)# LITA_CAPSTONE_PROJECT_2
 ANALYZE CUSTOMERS DATA USING MICROSOFT EXCCEL,SQL AND POWERBI TO PROVIDE VALUABLE INSIGHT INTO THE DATA
 #  PROJECT TITLE : CUSTOMERS DATA
 
@@ -93,4 +93,95 @@ subscription types
   ![IMAGE ALT](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-10-29%20105400.png)
   ![IMAGE ALT](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-10-28%20113528.png)
  
+**Overall Revenue Trends**
+1. Total Revenue: 67,540,175 
+2. Revenue Distribution:
+    - Basic: Highest revenue contributor 
+    - Premium: Second-highest revenue contributor
+    - Standard: Lowest revenue contributor
+3. Cancelled vs Not Cancelled Revenue:
+    - Cancelled:  37,208,727  
+    - Not Cancelled:  30,331,448 
+
+- **Subscription Type Analysis**
+1. Basic:
+    - Highest revenue contributor
+    - Revenue share:  33,776,735 
+2. Premium:
+    - Second-highest revenue contributor
+    - Revenue share: 16,899,064 
+3. Standard:
+    - Lowest revenue contributor
+    - Revenue share:  16,864,376 
+
+**Cancellation Analysis**
+
+1. Cancellation Rate:
+    - Cancelled: 45% of total revenue (37,208,727)   
+    - Not Cancelled: 55% of total revenue ( 30,331,448)
+2. Cancellation Reason:
+    - False (Not Cancelled) 
+    - True (Cancelled)
+
+**key insight**
+
+1. Basic subscription type generates the highest revenue.
+2. Premium subscription type is the second-highest revenue contributor.
+3. Standard subscription type has the lowest revenue.
+4. Cancelled subscriptions account for 45% of total revenue
+5. Not cancelled subscriptions account for 55% of total revenue
+
+
+*Regional Revenue Ranking:*
+
+1. East: Highest revenue ,Subscription type: Basic
+2. South: Second-highest revenue , Subscription type: Premium
+3. West: Third-highest revenue, Subscription type: Standard
+4. North: Lowest revenue , Subscription type: Basic
+
+**Key Insights**
+
+1. Basic subscription type drives highest revenue in East.
+2. Premium subscription type is most popular in South.
+3. Standard subscription type is most popular in West.
+4. North has the lowest revenue, despite having Basic subscription type.
+
+**Target Areas**
+
+1. East: Retain Basic subscribers, consider upselling to Premium.
+2. South: Encourage Premium subscribers to upgrade to higher tiers.
+3. West: Improve Standard subscription offerings to increase revenue.
+4. North: Analyze reasons for low Basic subscription revenue, adjust marketing strategies.
+
+**Recommendations**
+
+_East_
+
+1. Loyalty programs for Basic subscribers.
+2. Targeted marketing for Premium upgrades.
+3. Monitor competitor offerings.
+
+_South_
+
+1. Premium-tier promotions.
+2. Personalized customer support.
+3. Analyze Premium subscriber demographics.
+
+_West_
+
+1. Enhance Standard subscription features.
+2. Competitive pricing analysis.
+3. Targeted marketing for Standard subscribers.
+
+_North_
+
+1. Market research to understand low Basic subscription revenue.
+2. Adjust marketing strategies.
+3. Consider partnerships or collaborations.
+
+
+
+
+
+
 
