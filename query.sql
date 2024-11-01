@@ -64,10 +64,29 @@ FROM[dbo].[customers data]
 ----question 8
 ---find the total number of active and canceled subscriptions
   ``SQL
-select sum(case when canceled = 0 then 1 else 0 end) as activesubscription,
-sum (case when canceled =1 then 1 else 0 end) as canceledsubscriptions
-from[dbo].[customers data]
-group by customerid
+alter table[dbo].[customers data]
+add active_subscription int
+ 
+ alter table[dbo].[customers data]
+ add non_active_subcription int
+
+ select *from[dbo].[customers data] 
+ update[dbo].[customers data]
+ set active_subscription=case when Canceled=0 then 1 else 0 end
+
+ update[dbo].[customers data]
+ set non_active_subcription=case when Canceled=1 then 1 else 0 end
+  
+ select Canceled,
+ sum(active_subscription)as num_active
+ from[dbo].[customers data]
+ group by Canceled
+  
+ select Canceled,
+ sum( non_active_subcription)as num_no_active
+ from[dbo].[customers data]
+ group by Canceled
+
 ``
 
 
