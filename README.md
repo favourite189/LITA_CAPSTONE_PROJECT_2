@@ -94,6 +94,8 @@ MOST POPULAR ==COUNTIF(Table1[[#All],[SubscriptionType]],"BASIC")
   ##  VISUALIZATION REPORT USING POWER BI
   ![IMAGE ALT](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-10-29%20105400.png)
   ![IMAGE ALT](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-10-28%20113528.png)
+  ![image alt](https://github.com/favourite189/LITA_CAPSTONE_PROJECT_2/blob/main/Screenshot%202024-11-03%20105540.png)
+
  
 **Overall Revenue Trends**
 1. Total Revenue: 67,540,175 
